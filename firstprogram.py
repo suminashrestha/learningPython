@@ -16,3 +16,8 @@ n1 = 45
 n2 = 45
 sum = n1+ n2
 print(sum)
+
+a,b = 4,2
+c=a/b
+print(c)
+
