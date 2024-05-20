@@ -1,4 +1,2 @@
-if (list == copy):
-    print("Palindrome")
-else:
-    print("Not palindrome")
+print(info.keys())
+# print(info.values())
