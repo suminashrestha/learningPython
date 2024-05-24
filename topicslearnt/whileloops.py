@@ -18,8 +18,14 @@
 #     j -= 1
 
 # eg3
+# i = 1
+# n = int(input("Enter the number: "))
+# while i <= 10:
+#     print(n, "*", i, "=", n*i)
+#     i += 1
+
+# # eg 4
 i = 1
-n = int(input("Enter the number: "))
 while i <= 10:
-    print(n, "*", i, "=", n*i)
+    print(i**2)
     i += 1
