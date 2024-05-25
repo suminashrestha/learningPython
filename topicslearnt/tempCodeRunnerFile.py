@@ -1,1 +1,3 @@
-student_heights = input("Input a list of student heights:").split()
+with open("demo.txt", "r") as f:  # as means alias
+#     data = f.read()
+#     print(data)
